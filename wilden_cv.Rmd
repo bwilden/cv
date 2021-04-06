@@ -1,0 +1,67 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Bertrand Wilden
+
+jobtitle: "PhD Student, Political Science"
+address: "University of California San Diego"
+fontawesome: no
+email: bwilden@ucsd.edu
+github: bwilden
+# twitter: bertrand_wilden
+#osf: "Enter 5 digit osf string here"
+phone: "+1 415 624 4769"
+web: bwilden.com
+updated: yes
+
+keywords: wilden
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+PhD Political Science (UC San Diego) \hfill 2019 -
+
+BA Political Science, *summa cum laude* (UC San Diego) \hfill 2016 - 2018
+
+AA (Los Angeles Harbor College) \hfill 2014 - 2016
+
+
+# Research Interests
+
+Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Statistics · Causal Inference
+
+# Current Projects
+
+**Improved Bayesian Ethnorace Prediction** I develop a method for predicting individual level race/ethnicity using Bayes' Rule. Racial distributions from a nationwide surname list are combined with distributions from geolocations to yield predicted probabilities of individuals’ race and ethnicity. I expand upon existing methods by incorporating information from a nationwide list of first names as well as from residence characteristics. Along with some other adjustments, these improvements lead to substantial gains in predictive performance when validated against official state voter files.
+
+# Software Packages
+
+**`bper`**: Bayesian Prediction for Ethnicity and Race https://github.com/bwilden/bper
+
+# Teaching
+
+## Discussion Section Leader
+
+Big Data Analytics (*graduate*); Quantitative Methods (*graduate*); Machine Learning for Social Sciences
+  
+## Grader
+
+British Politics; Voting Rights Act 50 Years Later; Quant Analysis/Congress Politics; European Integration
+
+# Research Assistance
+
+Center for Commerce & Diplomacy (UC San Diego) \hfill 2020
+
+# Languages
+
+R, Python, LaTeX
+
+
