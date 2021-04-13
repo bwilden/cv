@@ -62,6 +62,6 @@ Center for Commerce & Diplomacy (UC San Diego) \hfill 2020
 
 # Languages
 
-R, Python, LaTeX
+R, Python, LaTeX, Stata
 
 
