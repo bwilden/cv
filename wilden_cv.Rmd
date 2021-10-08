@@ -40,6 +40,8 @@ Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Statistics
 
 # Current Projects
 
+**RMIG Ideal Points**, with Nhat-Dang Do. We estimate political ideal points of interest groups lobbying in the California state legislature using a hierarchical Bayesian item-response model. Our findings indicate that Racial Minority Interest Groups (RMIGs) lie on the far left of the ideological spectrum. In fact, they are more liberal than any other category of interest group (Public Interest, Labor, Education, Business, etc).
+
 **Improved Bayesian Ethnorace Prediction** I develop a method for predicting individual level race/ethnicity using Bayes' Rule. Racial distributions from a nationwide surname list are combined with distributions from geolocations to yield predicted probabilities of individuals’ race and ethnicity. I expand upon existing methods by incorporating information from a nationwide list of first names as well as from residence characteristics. Along with some other adjustments, these improvements lead to substantial gains in predictive performance when validated against official state voter files.
 
 # Software Packages
@@ -54,9 +56,11 @@ Big Data Analytics (*graduate*); Quantitative Methods (*graduate*); Machine Lear
   
 ## Grader
 
-British Politics; Political Inquiry; Voting Rights Act 50 Years Later; Quant Analysis/Congress Politics; European Integration
+Senior Honors Seminar; Algorithms, Public Policy, and Ethics; British Politics; Political Inquiry (x2); Voting Rights Act 50 Years Later; Quant Analysis/Congress Politics; European Integration
 
 # Research Assistance
+
+Replication of *The Political Consequences of External Economic Shocks: Evidence from Poland* (2020). John Ahlquist, Mark Copelovitch, Stefanie Walter. https://doi.org/10.1111/ajps.12503
 
 Center for Commerce & Diplomacy (UC San Diego) \hfill 2020
 
