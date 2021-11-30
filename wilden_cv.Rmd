@@ -27,11 +27,13 @@ urlcolor: blue
 
 # Education
 
-PhD Political Science (UC San Diego) \hfill 2019 -
+PhD Political Science (UC San Diego) \hfill 2019 --
 
-BA Political Science, *summa cum laude* (UC San Diego) \hfill 2016 - 2018
+MA Political Science (UC San Diego) \hfill 2021
 
-AA (Los Angeles Harbor College) \hfill 2014 - 2016
+BA Political Science, *summa cum laude* (UC San Diego) \hfill 2018
+
+AA (Los Angeles Harbor College) \hfill 2016
 
 
 # Research Interests
@@ -40,9 +42,11 @@ Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Statistics
 
 # Current Projects
 
-**RMIG Ideal Points**, with Nhat-Dang Do. We estimate political ideal points of interest groups lobbying in the California state legislature using a hierarchical Bayesian item-response model. Our findings indicate that Racial Minority Interest Groups (RMIGs) lie on the far left of the ideological spectrum. In fact, they are more liberal than any other category of interest group (Public Interest, Labor, Education, Business, etc).
+**A Constitutive Causal Theory of Race**. Most social science research purporting to examine the effect of one's race on an outcome implicitly uses a theoretically incoherent understanding of race. Under the widely-accepted constructivist understand of race, it is impossible to isolate the "effect" of race as required by classic counterfactual causal inference paradigms. In this project I critique existing quantitative methods using race and offer an alternative framework which incorporates race's constitutive elements. These constitutive elements are identified empirically using a structural learning algorithm to find the Markov Blanket surrounding the race variable in a particular data set.
 
-**Improved Bayesian Ethnorace Prediction** I develop a method for predicting individual level race/ethnicity using Bayes' Rule. Racial distributions from a nationwide surname list are combined with distributions from geolocations to yield predicted probabilities of individuals’ race and ethnicity. I expand upon existing methods by incorporating information from a nationwide list of first names as well as from residence characteristics. Along with some other adjustments, these improvements lead to substantial gains in predictive performance when validated against official state voter files.
+**Interest Group Ideal Points**, with Nhat-Dang Do. We estimate political ideal points of interest groups lobbying in the California state legislature using a hierarchical Bayesian item-response theory model. Our findings indicate that Racial Minority Interest Groups (RMIGs) lie on the far left of the ideological spectrum. In fact, they are more liberal than any other category of interest group (Public Interest, Labor, Education, Business, etc).
+
+**Improved Bayesian Ethnorace Prediction**. I develop a method for predicting individual level race/ethnicity using Bayes' Rule. Racial distributions from a nationwide surname list are combined with distributions from geolocations to yield predicted probabilities of individuals’ race and ethnicity. I expand upon existing methods by incorporating information from a nationwide list of first names as well as from residence characteristics. Along with some other adjustments, these improvements lead to substantial gains in predictive performance when validated against official state voter files.
 
 # Software Packages
 
