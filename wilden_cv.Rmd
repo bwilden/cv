@@ -38,15 +38,15 @@ AA (Los Angeles Harbor College) \hfill 2016
 
 # Research Interests
 
-Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Statistics · Causal Inference
+Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Modeling · Causal Inference
 
 # Current Projects
 
+**Improved Bayesian Ethnorace Prediction**. I develop a method for imputing individual level race/ethnicity using Bayes' Rule. When validated against self-reported race/ethnicity, my method vastly out-performs existing methods across a wide range of predictive metrics. I demonstrate that my method uncovers substantively-large racial disparities in real world applications that are not apparent when using predictions from older methods. Implementation is made easy by an open source software package in `R` https://github.com/bwilden/bper
+
+**Interest Group Ideal Points**, with Nhat-Dang Do. We estimate latent political ideology scores for interest groups lobbying in the California state legislature using a bespoke hierarchical Bayesian item-response theory model. We incorporate the latest modeling techniques from the Bayesian statistics literature to improve accuracy and validity of our results relative to previous ideal point estimation methods. 
+
 **A Constitutive Causal Theory of Race**. Most social science research purporting to examine the effect of one's race on an outcome implicitly uses a theoretically incoherent understanding of race. Under the widely-accepted constructivist understand of race, it is impossible to isolate the "effect" of race as required by classic counterfactual causal inference paradigms. In this project I critique existing quantitative methods using race and offer an alternative framework which incorporates race's constitutive elements. These constitutive elements are identified empirically using a structural learning algorithm to find the Markov Blanket surrounding the race variable in a particular data set.
-
-**Interest Group Ideal Points**, with Nhat-Dang Do. We estimate political ideal points of interest groups lobbying in the California state legislature using a hierarchical Bayesian item-response theory model. Our findings indicate that Racial Minority Interest Groups (RMIGs) lie on the far left of the ideological spectrum. In fact, they are more liberal than any other category of interest group (Public Interest, Labor, Education, Business, etc).
-
-**Improved Bayesian Ethnorace Prediction**. I develop a method for predicting individual level race/ethnicity using Bayes' Rule. Racial distributions from a nationwide surname list are combined with distributions from geolocations to yield predicted probabilities of individuals’ race and ethnicity. I expand upon existing methods by incorporating information from a nationwide list of first names as well as from residence characteristics. Along with some other adjustments, these improvements lead to substantial gains in predictive performance when validated against official state voter files.
 
 # Software Packages
 
@@ -56,7 +56,7 @@ Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Statistics
 
 ## Discussion Section Leader
 
-Big Data Analytics (*graduate*); Quantitative Methods (*graduate*); Machine Learning for Social Sciences
+Big Data Analytics (*graduate*); Quantitative Methods (*graduate*) [Lab Code](https://github.com/bwilden/204b-quantitative-methods-w21); Machine Learning for Social Sciences
   
 ## Grader
 
