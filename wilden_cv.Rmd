@@ -38,7 +38,7 @@ AA (Los Angeles Harbor College) \hfill 2016
 
 # Research Interests
 
-Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Modeling · Causal Inference
+Ethics in AI/Machine Learning · Bayesian Modeling · Causal Inference · Race and Ethnic Politics
 
 # Current Projects
 
@@ -52,11 +52,18 @@ Race and Ethnic Politics · Ethics in AI/Machine Learning · Bayesian Modeling �
 
 **`bper`**: Bayesian Prediction for Ethnicity and Race https://github.com/bwilden/bper
 
+\newpage
+
 # Teaching
 
 ## Discussion Section Leader
 
-Big Data Analytics (*graduate*); Quantitative Methods (*graduate*) [Lab Code](https://github.com/bwilden/204b-quantitative-methods-w21); Machine Learning for Social Sciences
+- Big Data Analytics (*graduate level*)
+  - Data cleaning; Ethics in AI; Machine learning model fitting and validation
+- Quantitative Methods (*graduate level*) 
+  - Data cleaning; Hypothesis testing; Regression analysis; [Lab Code](https://github.com/bwilden/204b-quantitative-methods-w21)
+- Machine Learning for Social Sciences
+  - Machine learning model fitting and validation
   
 ## Grader
 
